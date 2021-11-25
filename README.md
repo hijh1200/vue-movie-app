@@ -1,4 +1,4 @@
-# Vue3 템플릿 with Webpack
+# Vue3 템플릿 with Webpack(Serverless 기능 구현)
 
 ## Versions
 
